@@ -24,10 +24,10 @@ scikit-image
 scipy
 setuptools
 snuggs
+tensorboard==1.13.0
 tensorflow-gpu==1.13.1
 tifffile
 tqdm
 flatbuffers<2,>=1.12
 keras<2.10.0,>=2.9.0rc0
-tensorboard<2.10,>=2.9
 tensorflow-estimator<2.10.0,>=2.9.0rc0
