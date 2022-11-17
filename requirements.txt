@@ -2,6 +2,9 @@ six==1.10.0
 opt-einsum==2.3.2
 keras-preprocessing==1.0.5
 grpcio==1.8.6
+google-pasta==0.1.6
+absl-py==0.7.0
+
 pillow==4.3.0
 protobuf==3.6.1
 affine==2.3.0
