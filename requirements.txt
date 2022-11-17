@@ -25,6 +25,8 @@ scipy
 setuptools
 snuggs
 tensorboard==1.13.0
+tensorflow==1.13.1
 tensorflow-gpu==1.13.1
+kapre==0.1.4
 tifffile
 tqdm
